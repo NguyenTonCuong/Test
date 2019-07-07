@@ -1,6 +1,2 @@
-hello
-<<<<<<< HEAD
-Test_1
-nguyen 
-=======
->>>>>>> parent of bfd1667... coomit chance Test.txt
+nguyen ton cuong
+
